@@ -1,4 +1,3 @@
-from docling.document_converter import DocumentConverter
 import gradio as gr
 from fastmcp import FastMCP
 import sys
@@ -54,33 +53,6 @@ def ghost_dance_calculation(weight: float, unit: str = "pounds") -> str:
         f"- Full Step (1.0s): {full_m} ({full_f})\n"
         f"- Half Step (0.5s): {half_m} ({half_f})"
     )
-
-@mcp.tool()
-def convert_document_to_markdown(file_path: str) -> str:
-    """
-    Expertly convert any document (PDF, DOCX, PPTX, etc.) to clean Markdown using Docling.
-    
-    Args:
-        file_path: Path to the document to convert.
-    """
-    if not os.path.exists(file_path):
-        return f"Error: File not found at {file_path}"
-    
-    try:
-        converter = DocumentConverter()
-        result = converter.convert(file_path)
-        md_output = result.document.export_to_markdown()
-        
-        # Determine output path
-        base_name = os.path.splitext(file_path)[0]
-        output_path = f"{base_name}_converted.md"
-        
-        with open(output_path, "w", encoding="utf-8") as f:
-            f.write(md_output)
-            
-        return f"Successfully converted {file_path} to {output_path}. First 500 characters:\n\n{md_output[:500]}..."
-    except Exception as e:
-        return f"Error during conversion: {str(e)}"
 
 # Gradio UI
 with gr.Blocks(title="Ghost Dance - A continued prophecy") as demo:
