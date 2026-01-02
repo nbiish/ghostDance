@@ -1,0 +1,395 @@
+US 20060014125A1
+
+<!-- image -->
+
+- (10) 2006/0014125A1
+
+## (19) United States (12) Patent Application Publication St. Clair
+
+## (54) WALKING THROUGH WALLSTRAINING SYSTEM
+
+- (76) Inventor:
+
+John Quincy St. Clair, San Juan, PR (US)
+
+Correspondence Address: HN ST. CLAIR 52 KINGS COURT SANJUAN, PR 00911 (US) 4A
+
+- (21) Appl. No.:
+
+10/890,635
+
+Pub. No.: US
+
+- (43) Pub. Date:
+
+Jan. 19, 2006
+
+- (22) Filed:
+
+Jul. 14, 2004
+
+## Publication Classification
+
+- (51) Int. Cl.
+
+G09B 1900
+
+(2006.01)
+
+(52) U.S. Cl. .............................................................. 434/258
+
+## (57) ABSTRACT
+
+This invention is a training System which enables a human being to acquire Sufficient hyperSpace energy in order to pull the body out of dimension So that the person can walk through Solid objects Such as wooden doors.
+
+<!-- image -->
+
+Figure 1
+
+<!-- image -->
+
+Figure 2
+
+<!-- image -->
+
+Figure 3
+
+<!-- image -->
+
+Figure 4
+
+<!-- image -->
+
+Figure 5
+
+<!-- image -->
+
+Figure 6
+
+<!-- image -->
+
+Figure 7
+
+<!-- image -->
+
+Figure 8
+
+<!-- image -->
+
+Figure 9
+
+<!-- image -->
+
+Figure 10
+
+<!-- image -->
+
+Figure 11
+
+<!-- image -->
+
+Figure 12
+
+<!-- image -->
+
+Figure 13
+
+<!-- image -->
+
+A
+
+Figure 14
+
+<!-- image -->
+
+Figure 15
+
+<!-- image -->
+
+Figure 16
+
+<!-- image -->
+
+Figure 17
+
+<!-- image -->
+
+Figure 18
+
+<!-- image -->
+
+Figure 19
+
+<!-- image -->
+
+Figure 20
+
+<!-- image -->
+
+## WALKING THROUGH WALLS TRAINING SYSTEM
+
+## BRIEF SUMMARY OF THE INVENTION
+
+0001. This invention is a training system that enables a human being to acquire Sufficient hyperspace energy in order to pull the body out of dimension So that the perSon can walk through Solid objects Such as wooden doors.
+
+## BACKGROUND OF THE INVENTION
+
+0002. A human being is a hyperspace energy being living in a physical container or body that is comprised of 67% water. This high percentage of water makes this invention possible. Referring to FIG. 1, the hyperSpace energy being receives energy from our dimension through Seven Vortices that run the length of the body. Each Vortex connects to a Separate hyperSpace dimension having its own particular frequency. This arrangement allows for the development of Seven modular energy components corresponding to the mind, Spiritual eye, Voice, body, abdomen, plasma energy ball (battery), and ground connection.
+
+0003 Vortex (A), known as the top vortex, Supplies energy to the mind and provides a channel of communication to other entities in the universe. This channel has been tested up to 100,000 light years which is the diameter of the galaxy.
+
+0004 Vortex (B), known as the spiritual eye, has a hollow cone-like appearance surrounded by white, misty, low density hyperSpace energy. Because the eye is modular, the mind can project it to vast distances, a process known as remote viewing.
+
+0005 Vortex (C), known as the voice and hearing mod ule, can also be projected to enormous distances in order to communicate verbally with other entities. Using the proper remote Viewing instruments, it is possible to project both the eye and Verbal modules to See and talk at the Same time.
+
+0006 Vortex (D), known as the heart vortex, provides protective energy to the upper internal organs, arms and hands.
+
+0007 Vortex (E) provides protective energy for the lower organs Such as the intestines, liver and kidneyS.
+
+0008 Vortex (F), known as the battery of the body, consists of an orange-colored plasma energy ball about one to two inches in diameter. The body becomes paralyzed if this ball is removed from the body. When the hyperspace energy being leaves the body, the Vortices close and the battery takes over in order to keep the body functioning. This Vortex also plays a role in the creation of the astral energy baby that attaches to the fertilized egg.
+
+0009 Vortex (G) is the ground vortex which rotates in the counter-clockwise direction in order to provide an energy ground for the electrical circuit. All the other Vortices rotate in the clockwise direction as Seen from the front Such that energy flows into the Vortex according to the right-hand rule of physics.
+
+0010 Vortex (H) is the hand vortex which rotates coun terclockwise on the right hand and clockwise on the left hand as Seen looking at the palm. Thus there is a rotating flow of hyperSpace energy between the two hands when the palms are facing each other.
+
+0011 Referring to FIG. 2, each vortex feeds energy into its own hyperspace module shown by the lettered box. In terms of quantum mechanics, each box is actually a potential energy well in which each module develops separately. At the time of death of the body, these modules are joined together as a Single energy being. The process is powered by the plasma energy ball battery which also contains the logical instructions for assembly.
+
+0012. Different people, as tested by the pendulum on the hand vortex, have different vortex sizes. Three people were tested. The first perSon had almost no rotational movement showing very little energy. The Second perSon had a Vortex radius of one inch. Another had a Vortex radius of four inches which covered his entire hand. The latter also has the ability to lift another human being, lying prone on a table, off the table by flowing low-density hyperspace energy into the person through the hand Vortices. He has also experienced walking through a Solid wooden door with a dog at his Side. What this means is that there is a way, as described in this invention, of creating large energy Vortices which will enable a person to acquire Sufficient energy to walk out of dimension through Solid objects Such as wooden doors.
+
+0013 Researching the historical records, referring to the statue in FIG. 3, a humble black Catholic Dominican friar of the Santo Rosario Convent, by the name of San Martin de Porres, living in Peru in the 1500's, also developed this ability to walk through doors. For his beatification, many witnesses came forward to recount his extraordinary abili ties. For example, a witness, who worked in the Convent, went to the cell of San Martin to ask for something to eat. When he reached the cell, he saw San Martin leaving with Some medications apparently to heal Someone sick. The witness waited by the open door of the cell for his return. After having waited awhile without being distracted by anything else, he saw said venerable brother fray Martin come out from his cell from the inside and call him by name. The witneSS was terrified, not understanding how this was possible.
+
+0014. The woman who gave me the statue told me that he would walk miles and miles each day to visit the poor. The task of walking means that there is a Velocity involved. Because the body has mass, then there is a mass times a velocity, or momentum, involved in this ability. Notice also that the Statue shows him walking with his right arm crossed over his left arm in the form of an X.
+
+0015 What this walking momentum means in terms of physics is given in the following analysis. The human body consists of 67% water. A water molecule consists of two hydrogen atoms and one oxygen atom having the atomic formula HO. The atomic weight of one atom of hydrogen is 1.008 awu. The atomic weight of one atom of oxygen is 16.000 awu. The molecular weight of one atom of water is therefore:
+
+Weight of two atoms of hydrogen 2 x 1.008 awu = Weight of one atom of oxygen 1 x 16.000 awu =
+
+2.016 awu 16.000 awu
+
+18.016 awu
+
+The formula weight is just the atomic weight expressed in grams. Thus the formula weight of water would be 18.016
+
+grams or 0.01801.6 kilograms. According to Avogadro's law, the formula weight contains N=6.02x10° molecules. Thus the mass of one water molecule is the formula weight divided by the number of molecules:
+
+.018016k ''''' = 2.99269103.10.2 kg 3.SS 3.SS Int f = -58.77103943
+
+0016. According to Einstein's Special Theory of Relativ ity, energy is equal to the mass times the Speed of light Squared. The energy of a photon is equal to Planck's constant h times the frequency f of the photon. Equating these two energies shows that
+
+h => ln(n) -- ln(A) = l =base = -95.91546344 C E =mc? =hf =h5 = " 3 ma =
+
+which Says that the natural logarithm of the mass plus the natural logarithm of the wavelength is equal to the natural logarithm of Planck's constant divided by the speed of light c, known as the base constant in the tetrahedron diagram. This diagram plots the mass verSuS wavelength in natural logarithms. Notice that the left hand side of the equation is the Sum of mass and wavelength, So the right hand Side must also be the Same.
+
+QA 2rA 142) = 14 In(oA ) + In(2zA
+
+where S2A, known as the Planck maSS, is the linear mass S2 of the universe times the bottom dimensional limit of the universe A, and 2. LA is the bottom dimensional wavelength, known as the Planck wavelength. That is, our dimension is bounded by the Planck box having sides Planck mass and Planck wavelength. These boundaries have values:
+
+In(2A)=-17.64290101 In(2zA)=-78.27256243
+
+0017 Referring to FIG. 4, these two lines are plotted on the tetrahedron diagram. The Planck mass line (A) reflects off the sphere (C) and returns as the Planck wavelength (B) which shows the dual nature of quantum physics. This creates the Planck box (a,b,c,d) which is the boundary of our dimension.
+
+0018 Referring to FIG. 5, the mass of the water mol ecule is plotted as horizontal line (D) on the diagram. The energy of the water molecule is the mass times the Speed of light Squared.
+
+E=mc?
+
+ln(c)=19.51860099 In(mc2)=In(m)+2 In(c)
+
+0019 Referring to FIG. 6, a circle (E), having a radius equal to the Speed of light Squared, centered on the mass of the water molecule at the vertical axis, generates a circle (F), centered at the origin, that intersects (e) the mass of the water molecule at the Planck wavelength. That is, this interSection point sits right on the Planck box boundary between space and hyperspace. The radius of circle (F) is actually the mass of the water molecule divided by the speed of light Squared.
+
+E = c7 =m 72 =[ meter 3 € = sec In(c) = 0
+
+Taking the positive Square root, the Speed of light is one meter per Second at the Planck boundary. The experiments with brain hemisphere resonance show that the resonant frequency of the human energy field is between 1 Hz to 5 Hz which is well below the hearing threshold of 20 Hz. Because the traveling wave has a wavelength of 0.3048 m and the Speed of light is unity at the boundary, the frequency should be
+
+f = sec 23.28 Hz 1 3048 m
+
+which is within the middle of the experimental male range. At this resonant frequency, the human energy being pops out of the body. This represents only a first stage in the devel opment of the energy being. But what is really wanted is to have both the physical body and the energy field move out of dimension together as San Martin did.
+
+0020 Referring to FIG. 7, the 45° base line (G) is added to the diagram. Notice that the Planck mass intersects (b.d) the Planck wavelength on this line because they sum to the base constant. The mass of the water molecule crosses this line at point (f). A circle, centered (f), with a radius equal to the Speed of light, is tangent to the Planck wavelength (h) and the Planck mass (g). Since mass times Velocity is momentum, the diagram Says that the momentum of the water molecule is tangent to the boundaries of the Planck box which Separates Space from hyperSpace. In order to get to point (e) from the momentum of the water molecule, a Second circle is added to the momentum.
+
+0021 Referring to FIG. 8, a circle (I), centered on the water molecule mass at the speed of light circle (i), is made tangent to the Planck wavelength at point (e). The momen tum M of space is equal to the Planck mass times the Planck Scale times the Speed of light. At point (e), the speed of light
+
+is unity, So that the momentum is just the Planck mass in momentum units:
+
+M = QAc = 2.176634194.108 kg S
+
+Circle (I) has a radius equal to
+
+ratio-e21.722-23389127OO
+
+Therefore the walking momentum in order to get to point (e) is the momentum of Space M times this ratio
+
+M = M. ratio = 50,909573606 kg.
+
+The stride length L per second that a person of mass W has to walk is the walking momentum divided by the mass W times a period T of one Second
+
+L = M
+
+For a person with a mass W of 99.79 kg (220 pounds), then the stride length L is 20.08 inches or one foot and eight inches. The perSon has to walk this length in one Second on each foot.
+
+0022 Looking at the statue of San Martin, his arms are crossed over each other. The Vortex of the right hand points backward, and the left hand vortex points forward due to the reversed rotation. Referring to FIG. 9, this creates a rota tional energy channel (D) around his body (A). The stride length (C) is calculated according to the body mass, and then a banner printout is made showing where the footprints (B) are to be placed each second. The question is: "What happens when one walks the walk'?".
+
+0023. On the very first experiment, referring to FIG. 10, what happens is that, after taking only Six Strides on the banner printout (A), a huge spinning vortex (C) develops over the top of the head and the vertex locks onto the heart vortex in the center of the chest (B). In everyday life, this Vortex is not created because normal walking is much faster and the hands are held at the side of the body. The energy rush through the pineal gland is So intense that one feels immediately sleepy and Starts yawning excessively due to the increased flow of melatonin.
+
+0024. After practicing with the banner printout, long walks were made through the park. In this case, a vertical white line rotated around a vertical axis located about Six feet perpendicular to the path on the right Side of the body. When the walking speed was correct, this white line would lock onto the centerline of the body. Speeding up or down caused the white line to lose Synchronization and rotate away. This white line is related to the ability to levitate the body. San Martin had So much energy that, according to witness testimony, he could float horizontally in the air with his head resting against the bowed head of Christ on a carved Wooden croSS. Thus San Martin's energy Sources were
+
+channeling energy from Christ, collective broom energy as described in a separate patent application, and the walking momentum Vortex energy.
+
+0025. During the early part of the 20th century, a man's parents were lying in bed dying of tuberculosis. With their permission, he placed a weighing Scale under each of their beds. When they passed away, he found that each Scale registered a loSS in weight of 2.5 ounces. This is equivalent to 0.071 kg, which is the mass of the human energy being.
+
+0026. After conducting a number of experiments with water Vortices draining from a cylindrical tank, it can be Stated from Bernoulli's theorem that the potential energy plus the kinetic energy is a constant
+
+<!-- image -->
+
+The shape of the inner Surface of the water circulation has a Velocity proportional to the inverse of the radius, So the shape of the Surface is
+
+(3-30) = 2
+
+which says that the height of the vortex is proportional to the inverse of the Square of the radius.
+
+0027. The hand vortex area ratio between the second test Subject and the third test Subject is equal to the Square of their radii:
+
+-
+
+(1 in) 1 ratO = : (4 in)? 16
+
+Because the Speed of light at the boundary was determined to be one meter per Second, the energy of the third test Subject is
+
+.071 kg Y1 m) -3 : E= ( () = 4.4375. 10 joule 16 SteC ln(E) = -5.417664124
+
+0028 Referring to FIG. 11, a circle (K), having this radius, is added to the energy of the water molecule (E), to produce augmented energy circle (J). This circle (J) inter sects the mass of the water molecule outside the Planck box at point (). This means that the increased hyperspace energy moves the water molecule, and hence the body, out of dimension. Furthermore, circle (J) is tangent to the walking momentum ratio circle (I) which keeps the geometry locked together.
+
+## SUMMARY OF THE INVENTION
+
+0029. It is the object of this invention to create a training System that allows a person to develop the ability to walk
+
+around out of dimension, passing through Solid objects. This invention is based on one of the most remarkable relation ships between the water molecule and the boundary between Space and hyperSpace. The mass of the water molecule is equal to the energy of the water molecule at this boundary. Because the body is composed of 67% water, the body sits on the boundary Such that any additional increase in energy would move the body out of dimension into hyperSpace. Because human beings are actually hyperspace energy beings living in physical bodies, the additional energy required to move the body out of dimension comes from increasing the energy of the hyperSpace being. One Source of this energy comes from walking cross-handed at the proper Velocity in order to generate a large hyperSpace energy vortex that flows energy into the potential wells of the hyperSpace being. This increased hyperspace energy will then allow the person to walk around out of dimension through Solid wooden doors. Because the door and the perSon are in two slightly different dimensions at the same moment, it appears that the perSon is walking through the door. After passing through the closed door, the person then returns to our dimension and emerges in the interior of the closed-door room.
+
+0030 This technique can be used in reverse to heal an infected hand instantaneously. A Salve made from the St.Mary's herb is applied to the skin of the infected hand. The hyperSpace energy then flows through the right-hand Vortex Such that the infected hand and the Salve are taken slightly out of dimension. What happens is similar to when a short piece of Straw is embedded in a hard wooden telephone pole as a tornado passes over the pole. The Straw and pole are taken out of dimension Such that they briefly merge together. AS the tornado moves on, both objects come back to dimension merged together. Thus the Salve (Straw) is merged with the bacteria (pole) in hyperspace Such that the bacteria is killed instantly. Removing the hand vortex brings the infected hand back into dimension cured.
+
+0.031 Based on this information and the results of many experiments, this invention creates a large Vortex by walking at a certain Velocity with the hands crossed over the chest. The proper walking momentum is created by a computer program that inputs the perSons weight, shoe length, and the number of Strides to be taken. The program then prints out a banner showing the footprints where the person has to Step each Second. When a perSon obtains Sufficient energy from these methods, the perSon is then tuned to the Subspace geometry of the universe as will be shown using the tetra hedron physics diagram.
+
+## A BRIEF DESCRIPTION OF THE DRAWINGS
+
+0032 FIG. 1. Energy vortices of the human body.
+
+0033 FIG. 2. Seven potential wells fed by the energy vortices of the body.
+
+0034 FIG. 3. Carved wooden statue of San Martin de Porres who could walk through solid wooden doors.
+
+0.035 FIG. 4. Tetrahedron diagram showing boundaries of the Planck box of dimension.
+
+0.036 FIG. 5. Tetrahedron diagram showing mass of water molecule.
+
+0037 FIG. 6. Tetrahedron diagram showing water mol ecule energy and mass are equal at the Planck box boundary.
+
+0038 FIG. 7. Tetrahedron diagram showing that water molecule momentum is tangent to the boundaries of the Planck box.
+
+0039 FIG.8. Tetrahedron diagram showing the momen tum ratio required to reach the Planck wavelength boundary from the water momentum.
+
+0040 FIG. 9. Perspective view of crossed-hand momen tum walking using banner printout.
+
+0041 FIG. 10. Perspective view of vortex generated by momentum walking.
+
+0042 FIG. 11. Tetrahedron diagram showing how addi tional hyperSpace energy Supplied to the potential wells of the hyperSpace energy being enables the human body to be pulled out of dimension.
+
+0043 FIG. 12. Tetrahedron diagram showing the inverted tetrahedrons whose crossing represents the merging of two Worlds between Space and hyperspace.
+
+0044 FIG. 13. Tetrahedron diagram showing that the proton wavelength is determined by the Planck mass tangent to the inverted tetrahedrons.
+
+004.5 FIG. 14. Tetrahedron diagram showing that the mass of the universe determines the electron and proton elementary particles.
+
+0046 FIG. 15. Tetrahedron diagram showing that momentum walking together with the increased energy of the hyperSpace energy being is tangent to the mass of the universe.
+
+0047 FIG. 16. Computer program block diagram for printing banner footprints.
+
+0048) FIG. 17. Computer program input dialog window.
+
+0049 FIG. 18. Computer program calculation of stride length per Second.
+
+0050 FIG. 19. Six-stride screen banner printout for 220 lb. perSon.
+
+0051 FIG. 20. Project tree showing help information by double clicking on node.
+
+## DETAILED DESCRIPTION OF THE INVENTION
+
+0.052 1. Referring to FIG. 12, a tetrahedron (A, path abc) is added to the diagram. The tip of the tetrahedron (e) falls on the base constant which is equal to Planck's constant divided by the speed of light. A second tetrahedron (B, path def) is inverted around horizontal line (D) which has a geometrical relationship to the base constant. The line is located at
+
+<!-- image -->
+
+Notice that the intersection of the two inverted tetrahedrons (g) occurs at the Planck wavelength which is the boundary between space and hyperspace. Line (D) is referred to as the merging of two worlds or the connecting of two worlds, a phrase obtained by means of remote Viewing. That is, it is
+
+the dividing line between Space and hyperSpace. This is the reason that the two boundaries interSect at this point.
+
+0053) Referring to FIG. 13, the proton wavelength (E) is added to the diagram. The proton wavelength has a value of the electron wavelength divided by 1836.1527
+
+<!-- image -->
+
+A line (hd), from the base constant at the proton wavelength (h), to the corner of the inverted tetrahedron (d), intersects the merging of two worlds line at point (i). A circle, with a radius equal to the Planck mass (G), centered (i), is tangent to the inverted tetrahedrons. Thus the proton is defined by the base constant and the geometry of Subspace. The reason that the proton is tangent to both tetrahedrons is because the electron and proton follow one Single path between Space and hyperSpace. Thus there is only one single particle in nature. Because the particle enters our Space at two different locations, we see the one particle as two distinct elementary particles. This relationship can be seen in Library of Con greSS tetrahedron diagram tet0565.
+
+0054) Referring to FIG. 14, the mass of the universe MU is equal to the linear mass Q of the universe times the radius R of the universe which is 10° meters
+
+In(MU)-In(QR)-122.3347509
+
+as shown on the diagram as line (A). The electron wave length (B) reflects off the circumscribing sphere (H) and returns as the electron mass (C). The distance between reflection points is the hyperspace charge which is equal to the charge of Space less the electron charge. So the electron goes from wavelength to electric charge to mass. The proton wavelength (D) reflects off the sphere and returns as the proton mass (E) which intersects the horizontal axis at point (c). A line (abc) from the mass of the universe at the vertical axis (a) to the proton at the horizontal axis (c) intersects the electron (b) which determines the electron's mass and wavelength since this point is on the 45 base line. What this means is that cosmology determines the values of the elementary particles.
+
+0055 Referring to FIG. 15, the mass of the water mol ecule (C) intersects the 45 base line at point (a). A circle (F), with a radius equal to the Planck mass is centered on point (c) at the Planck wavelength boundary (B) where the mass of the water molecule numerically equals the energy of the water molecule and where the Speed of light is unity. The Planck mass is tangent to the base constant which is the vertical centerline (I) of the diagram. The large circle (H), centered (a) on the water molecule, is tangent to the mass of the universe (b) and tangent to the inverted tetrahedron (E). The difference between this circle (H) and the base constant (I) is the energy the hyperspace being has to acquire in order to be tuned to the mass and geometry of Subspace. This difference, shown as circle (G), has a mass
+
+m=e'.7271 kg=8.29.10 kg
+
+Thus the hand Vortex radius ratio has to be the Square root of the mass of the hyperSpace energy being divided by this tangent mass, or:
+
+<!-- image -->
+
+which is a Vortex radius that is three times larger than that of a normal perSon, but one inch Smaller than the third test subject who had a hand vortex radius of 4 inches. This is the reason that the third test Subject was able to walk through walls and teleport to other locations because his energy was Sufficiently large enough to croSS over the inverted tetrahe dron into a co-dimension of hyperSpace. Notice also that dotted circle (J) with a radius equal to the mass of the water molecule, centered (c) on the boundary, is tangent to the tetrahedron (K). This makes the combined geometry tangent to the inverted tetrahedrons and the mass of the universe.
+
+0056 2. Referring to FIG. 16, a computer program generates a banner printout with footprints spaced for walk ing according to the weight, shoe size and length of banner desired. Some banners could fit in a Small room, or be placed on the floor of a long corridor. As shown in the block diagram the program inputs these three variables with error checking. Then the program calculates the Stride length L per Second from the equation
+
+<!-- image -->
+
+0057 3. In the above equation, the value of the momen tum M, as determined by the tetrahedron diagram, is pref erably 50.9095736 kg m/s. The weight of the person is converted to mass W in kilograms. The stride period is preferably 1 second. Referring to FIG. 17, the data is entered in the dialog input window.
+
+0058 4. Once the stride length has been calculated, the program displays the Stride length and the required number of banner sheets in the message window, as seen in FIG. 18.
+
+0059) 5. The print banner menu is selected and the foot prints are printed on continuous banner paper. A Six-Stride Scaled Screen version of the banner is shown in FIG. 19. The banner paper is then placed on the floor, and a one-Second beeping timer is activated from the toolbar or menu. The person then walks beside the printed foot prints, taking one Stride per beep, which produces the correct walking momen tum to generate the hyperSpace Vortex. The Vortex, which forms in only Six Strides, brings additional hyperSpace energy into the quantum potential Wells of the hyperSpace energy being.
+
+0060 6. A help system consists of a project tree which explains the various Steps in using the program. Double mouse clicking on a project tree node displays the help instructions in a dialog window as shown in FIG. 20.
+
+0061 7. In summary, the purpose of the training system is to Substantially increase the energy of a human being who will then have the capability of walking through walls, body levitation, instantaneous healing of infections, full-body teleportation to another location, remote viewing at vast distances in terms of light-years, and looking into hyper
+
+Space co-dimensions. The third test Subject and I have been able to experience all the above phenomena. He did it through augmenting his energy, and I have done it through the application of electromagnetic fields, by Spinning on my Vortex accelerator machine and using this invention.
+
+## I claim:
+
+1.
+
+A training method comprising the Steps of
+
+generating a banner having a plurality of footprints Spaced at regular intervals wherein the banner is placed on the ground;
+
+- generating a periodic audible Signal, whereby the audible Signal repeats at a regular interval of time equal to the period; and
+
+walking on the banner by tracing the footprints Spaced at regular intervals, wherein one Step is made with each audible Signal.
+
+- 2. The method of claim 1, wherein the Step of generating the banner further comprises:
+
+providing a perSon's actual mass in kilograms, and
+
+determining the Stride length based upon the following equation:
+
+L=(MIW)*T
+
+where L is the Stride length in meters, M is a constant of approximately 50.91, W is the mass of the person in kilograms, and T is the period of the audible Signal in Seconds, and
+
+- wherein the footprints on the banner are Spaced at the Stride length.
+- 3. The method of claim 2, wherein the audible signal is a beep and the period of the audible signal is one Second.
+- 4. A training method for a person comprising the Steps of: generating an audible signal having a fixed period;
+- generating a banner having regularly Spaced indicia for identifying preferred Step locations, wherein the dis tance between adjacent indicia is determined by the following formula:
+
+L=(MIW)*T
+
+where the distance between adjacent indicia in meters is L., a constant of 50.9095736 is equal to M, the person's mass in kilograms is W, and the fixed period in Seconds is T, and
+
+walking on the marked path by Stepping upon each of the regularly Spaced indicia wherein one Step is made with each period of the audible Signal.
+
+- 5. The training method of claim 4 wherein the fixed period is one Second.
+- 6. The training method of claim 5, wherein the regularly Spaced indicia are footprints.

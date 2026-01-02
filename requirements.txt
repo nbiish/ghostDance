@@ -1,0 +1,4 @@
+fastmcp>=2.14.2
+gradio>=6.2.0
+streamlit>=1.40.2
+
