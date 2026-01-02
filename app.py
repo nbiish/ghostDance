@@ -1,7 +1,6 @@
 import gradio as gr
 from fastmcp import FastMCP
 import sys
-import os
 
 # Create MCP server
 mcp = FastMCP("GhostDance")
@@ -95,8 +94,14 @@ with gr.Blocks(title="Ghost Dance - A continued prophecy") as demo:
     gr.HTML('<div style="display: flex; justify-content: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/ymJIXzvDvj4?start=79" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>')
 
     gr.Markdown("""
-    ### Project Intent Review
-    The Ghost Dance project implements the training protocols detailed in US Patent 2006/0014125A1. Its primary intent is to enable individuals to acquire sufficient 'hyperspace energy' to transition the physical body out of our dimension. By calculating a specific walking stride relative to body mass and maintaining a cross-handed posture, the system aims to generate a resonant vortex that pulls the body through the Planck boundary. This theoretical shift into hyperspace is claimed to facilitate walking through solid matter, levitation, and teleportation, leveraging the high water content of the human body as a conductive medium for subspace energy.
+    ### Hyperspace Conducting & Water Resonance
+    The Ghost Dance project implements training protocols from US Patent 2006/0014125A1, focusing on the human body as a biological conductor. With a water content of approximately 67%, our physical form is primarily composed of $H_2O$ and its isotopic variants, such as $D_2O$ (Heavy Water). These water isotopes possess specific vibrational waveforms that act as bridges to hyperspace.
+
+    **How Conduction Works:**
+    1.  **Momentum Alignment**: By walking at a specific calculated momentum ($L = M/W * T$), we align our physical velocity with the "base constant" of the Planck boundary.
+    2.  **Vortex Induction**: The cross-handed posture (X-form) creates a rotational energy channel. This generates a large hyperspace vortex that locks the Pineal gland onto the Heart vortex.
+    3.  **Isotopic Charging**: This vortex 'conducts' hyperspace energy directly into the body's water content. The specific waveforms of the water isotopes resonate, 'charging' the mass until it reaches a state where the speed of light ($c$) is effectively unity ($1$) at the Planck boundary.
+    4.  **Dimensional Shift**: Once sufficiently charged, the body is pulled 'out of dimension,' allowing for phenomena such as walking through solid objects, levitation, and teleportation.
     """)
 
 if __name__ == "__main__":
