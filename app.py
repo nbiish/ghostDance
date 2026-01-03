@@ -73,12 +73,12 @@ with gr.Blocks(title="Ghost Dance - A continued prophecy") as demo:
 
     gr.Markdown("""
     ### Hyperspace Conducting & Water Resonance
-    The Ghost Dance project implements training protocols from US Patent 2006/0014125A1, focusing on the human body as a biological conductor. With a water content of approximately 67%, our physical form is primarily composed of $H_2O$ and its isotopic variants, such as $D_2O$ (Heavy Water). These water isotopes possess specific vibrational waveforms that act as bridges to hyperspace.
+    The Ghost Dance project implements training protocols from US Patent 2006/0014125A1, focusing on the human body as a biological conductor. With a water content of approximately 67%, our physical form is primarily composed of H₂O and its isotopic variants, such as D₂O (Heavy Water). These water isotopes possess specific vibrational waveforms that act as bridges to hyperspace.
 
     **How Conduction Works:**
-    1.  **Momentum Alignment**: By walking at a specific calculated momentum ($L = M/W * T$), we align our physical velocity with the "base constant" of the Planck boundary.
+    1.  **Momentum Alignment**: By walking at a specific calculated momentum (**L = (M/W) * T**), we align our physical velocity with the "base constant" of the Planck boundary.
     2.  **Vortex Induction**: The cross-handed posture (X-form) creates a rotational energy channel. This generates a large hyperspace vortex that locks the Pineal gland onto the Heart vortex.
-    3.  **Isotopic Charging**: This vortex 'conducts' hyperspace energy directly into the body's water content. The specific waveforms of the water isotopes resonate, 'charging' the mass until it reaches a state where the speed of light ($c$) is effectively unity ($1$) at the Planck boundary.
+    3.  **Isotopic Charging**: This vortex 'conducts' hyperspace energy directly into the body's water content. The specific waveforms of the water isotopes resonate, 'charging' the mass until it reaches a state where the speed of light (c) is effectively unity (1) at the Planck boundary.
     4.  **Dimensional Shift**: Once sufficiently charged, the body is pulled 'out of dimension,' allowing for phenomena such as walking through solid objects, levitation, and teleportation.
     """)
 
