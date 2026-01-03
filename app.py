@@ -1,9 +1,4 @@
 import gradio as gr
-from fastmcp import FastMCP
-import sys
-
-# Create MCP server
-mcp = FastMCP("GhostDance")
 
 # Constants from the patent
 # Updated to match the patent more precisely: 50.909573606
@@ -34,23 +29,6 @@ def calculate_step(weight: float, unit: str):
         f"{full_feet:.3f} feet",
         f"{half_meters:.3f} meters",
         f"{half_feet:.3f} feet"
-    )
-
-# Register MCP tool
-@mcp.tool()
-def ghost_dance_calculation(weight: float, unit: str = "pounds") -> str:
-    """
-    Calculate the required step length for the Ghost Dance.
-    
-    Args:
-        weight: Weight of the person.
-        unit: Unit of weight ('pounds' or 'kilograms').
-    """
-    full_m, full_f, half_m, half_f = calculate_step(weight, unit)
-    return (
-        f"To perform the Ghost Dance at your weight ({weight} {unit}):\n"
-        f"- Full Step (1.0s): {full_m} ({full_f})\n"
-        f"- Half Step (0.5s): {half_m} ({half_f})"
     )
 
 # Gradio UI
@@ -105,8 +83,4 @@ with gr.Blocks(title="Ghost Dance - A continued prophecy") as demo:
     """)
 
 if __name__ == "__main__":
-    # Check for mcp argument
-    if len(sys.argv) > 1 and sys.argv[1] == "mcp":
-        mcp.run()
-    else:
-        demo.launch()
+    demo.launch(mcp_server=True)

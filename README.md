@@ -51,3 +51,29 @@ Ghost Dance protocol
 ## Copyright
 
 Copyright © 2025 ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi), also known legally as JUSTIN PAUL KENWABIKISE, professionally documented as Nbiish-Justin Paul Kenwabikise, Anishinaabek Dodem (Anishinaabe Clan): Animikii (Thunder), a descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi) of the Beaver Island Band, and an enrolled member of the sovereign Grand Traverse Band of Ottawa and Chippewa Indians. This work embodies Traditional Knowledge and Traditional Cultural Expressions. All rights reserved.
+
+## MCP Server (AI Integration)
+
+GhostDance supports the Model Context Protocol (MCP). This allows AI tools like Cursor, Claude Desktop, or Cline to use the Ghost Dance calculation directly as a tool.
+
+### How to use in Cursor:
+
+1.  **Install Dependencies**: Ensure you have `gradio[mcp]` installed:
+    ```bash
+    pip install "gradio[mcp]"
+    ```
+2.  **Run the App**: Start the GhostDance application:
+    ```bash
+    python app.py
+    ```
+    The app will start the web UI and the MCP server. Look for the MCP SSE URL in the console (usually `http://127.0.0.1:7860/gradio_api/mcp/sse`).
+
+3.  **Configure Cursor**:
+    *   Open Cursor Settings.
+    *   Navigate to **Features** -> **MCP**.
+    *   Click **+ Add New MCP Server**.
+    *   **Name**: `GhostDance`
+    *   **Type**: `sse`
+    *   **URL**: `http://127.0.0.1:7860/gradio_api/mcp/sse`
+
+Once configured, you can ask Cursor to "Calculate Ghost Dance stride for a weight of 180 lbs" and it will use the tool automatically.
